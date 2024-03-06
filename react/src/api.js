@@ -1,4 +1,4 @@
-const SERVER_URL = "https://juanda.certweb.infenlaces.com";
+const SERVER_URL = "https://localhost:4000";
 const BALANCE_URL = `${SERVER_URL}/balance`;
 const LOGIN_URL = `${SERVER_URL}/login`;
 const MOVEMENTS_URL = `${SERVER_URL}/movements`;
