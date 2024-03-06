@@ -13,4 +13,3 @@ function Movements({ movements }) {
 
 export default Movements;
 
-
